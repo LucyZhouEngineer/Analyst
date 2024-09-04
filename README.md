@@ -18,4 +18,4 @@ Financial sentiment analysis plays a pivotal role in valuation and investment de
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. 
